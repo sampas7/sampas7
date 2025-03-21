@@ -15,18 +15,8 @@ Sou um cara que curte programar, fazer uns beats e jogar uns games. No código, 
 ---
 
 ## 📊 Estatísticas do GitHub:
-![Sampas GitHub Stats](https://github-readme-stats.vercel.app/api?username=SampasDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SampasDev&layout=compact&theme=radical)
-
----
-
-## 🧠 Quem sou eu além do código?
-
-🎵 **Música na alma** – Beatmaker e letrista, transformando ideias em som. Não faço só música, conto histórias.  
-💻 **Back-end com visão** – Estruturando sistemas sólidos, sempre buscando eficiência e inteligência nas soluções.  
-🎨 **Criatividade além do óbvio** – De música a design, sempre criando algo autêntico, sem seguir fórmulas prontas.  
-🔥 **Mentalidade de progresso** – "Persistir, adaptar, progredir, reinar" não é só um lema, é meu jeito de viver.  
-🌍 **Pensamento grande** – Cada projeto, cada som, cada linha de código tem um propósito maior. Sempre mirando no impacto.  
+![Sampas GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampas7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampas7&layout=compact&theme=radical)
 
 ---
 
