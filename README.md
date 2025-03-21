@@ -21,7 +21,7 @@ Sou um cara que curte programar, fazer uns beats e jogar uns games. No código, 
 ---
 
 ## 🎧 Ouvindo essa braba no momento:
-[![Spotify](https://danmegax.vercel.app/api/spotify)](https://open.spotify.com/user/danmegax)
+[![Spotify](https://novatorem-eight-lilac.vercel.app/api/spotify)](https://open.spotify.com/user/danmegax)
 
 
 ## 📫 Onde me encontrar:
