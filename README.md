@@ -20,6 +20,10 @@ Sou um cara que curte programar, fazer uns beats e jogar uns games. No código, 
 
 ---
 
+## 🎧 Ouvindo essa braba no momento:
+[![Spotify](https://novatorem-rmyn6x6n9-daniel-sampaios-projects.vercel.app/api/spotify)](https://open.spotify.com/user/danmegax)
+
+
 ## 📫 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsampaior/)  
