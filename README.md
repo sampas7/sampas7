@@ -18,7 +18,7 @@ Sou um cara que curte programar, fazer uns beats e jogar uns games. No código, 
 
 ---
 
-## 🎧 Curtindo esse som:
+## 🎧 Curtindo um som:
 [![Spotify](https://novatorem-eight-lilac.vercel.app/api/spotify)](https://open.spotify.com/user/danmegax)
 
 
