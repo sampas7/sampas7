@@ -30,8 +30,4 @@ Sou um cara que curte programar, fazer uns beats e jogar uns games. No código, 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sampasx)  
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/sampasx/tracks)  
 
----
-
-### 🎧 O que estou ouvindo agora:
-[![Spotify](https://novatorem-rmyn6x6n9-daniel-sampaios-projects.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/danmegax)
 
