@@ -2,7 +2,7 @@
 
 Desenvolvedor Back-End | Artista independente
 
-Sou um cara que curte programar, fazer uns beats e jogar uns games. No código, meu foco é back-end. Fora da programação, tô sempre escutando e/ou fazendo música, além de buscar novas formas de expressão.
+Sou um cara que curte programar, fazer uns beats e jogar uns games. Atualmente estou no VI Semestre cursando Bacharelado em Sistemas de Informação no IF Baiano - Campus Itapetinga. No código, meu foco é back-end. Fora da programação, tô sempre escutando e/ou fazendo música, além de buscar novas formas de expressão.
 
 ---
 
